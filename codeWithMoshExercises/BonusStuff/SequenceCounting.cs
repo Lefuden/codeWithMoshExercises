@@ -37,3 +37,8 @@ namespace codeWithMoshExercises.BonusStuff
 För pluspoäng #1: Gör en variant på funktionen som inte skriver ut alla stegen utan bara skriver ut antalet steg som krävs för att nå #1.
 För pluspoäng #2: Gör ett program som visar vilket tal under mellan 1-100 som kräver flest steg för att nå 1 och skriv ut de talen.
 För pluspoäng #3: Försök hitta en motivering till varför jag sa att du skulle stanna funktionen när den når 1 */
+
+
+//    Skriv en funktion som tar emot tre värden,
+//    x- och y-position samt radie för två cirklar.
+//    Ge ett true/false-svar om de överlappar varandra.
