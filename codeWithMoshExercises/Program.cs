@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using codeWithMoshExercises.ArraysAndLists;
 
 namespace codeWithMoshExercises
 {
@@ -6,7 +8,7 @@ namespace codeWithMoshExercises
     {
         static void Main(string[] args)
         {
-            ArraysAndLists.ArrayListExercises.FacebookPost();
+            ArrayListExercises.ReverseName();
             //Console.Write("Enter a number:> ");
             //var input = Convert.ToInt32(Console.ReadLine());
             //Console.WriteLine(Loops.Exercises.ComputeFactorial3(input));
