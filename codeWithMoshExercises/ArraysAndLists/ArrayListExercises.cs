@@ -58,7 +58,7 @@ namespace codeWithMoshExercises.ArraysAndLists
             }
             
             var reversed = new string(array);                   //create string-based list of variable array, named reversed.
-            Console.WriteLine("Reversed: " + reversed);         //print new result. name reversed.
+            Console.WriteLine("Reversed: " + reversed);         //print new result. name reversed. 
         }
                                                                 //    Nicer looking code:
                                                                 //    Console.Write("What's your name? ");
